@@ -1,11 +1,11 @@
 const CONFIG = {
     titleWeb: "Maraqlı bir sual",
     introTitle: 'İllərdir görüşmədiyimizi nəzərə alaraq',
-    introDesc: `belə düşünürəm ki bunu dəvam etdirmək ikimizə də zülm olar`,
+    introDesc: `Belə düşünürəm ki, bunu dəvam etdirmək ikimizə də zülm olar`,
     btnIntro: 'Bura bas yavrim',
     title: 'Ona görə dəəəəə',
     desc: 'Bu altıncı gün kinoya baxmağa nə diyərsən?',
-    btnYes: 'Əlllləbdə ki, haçan istəsən',
+    btnYes: 'Əlllbətdə ki, haçan istəsənnn',
     btnNo: 'yx',
     question: 'İstəyicəyini bilirdimmm',
     btnReply: 'İndi isə bura fikir vermədən TG da mənə nə giyinəcəyini ee yəni nəyə baxacağımızı di',
